@@ -1,0 +1,10 @@
+.my {
+    height: 400px;
+}
+
+.myc {
+    margin-left: 150px;
+    margin-right: 150px;
+    align-content: center;
+    align-self: center;
+}
